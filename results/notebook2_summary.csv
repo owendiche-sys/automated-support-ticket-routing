@@ -1,0 +1,2 @@
+best_model,accuracy,macro_f1,weighted_f1,train_size,test_size
+LinearSVC,0.962,0.962,0.9622,2947,737

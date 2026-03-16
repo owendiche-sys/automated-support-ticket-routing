@@ -1,0 +1,5 @@
+model,cv_accuracy_mean,cv_accuracy_std,cv_f1_macro_mean,cv_f1_macro_std,cv_f1_weighted_mean,cv_f1_weighted_std,test_accuracy,test_f1_macro,test_f1_weighted
+LinearSVC,0.9525,0.0048,0.9507,0.0051,0.9525,0.0047,0.962,0.962,0.9622
+LogisticRegression,0.9111,0.0079,0.9079,0.0079,0.911,0.0079,0.9281,0.9271,0.928
+MultinomialNB,0.8921,0.0087,0.888,0.0084,0.8912,0.0088,0.8928,0.8912,0.8927
+RandomForest,0.8507,0.0095,0.843,0.0101,0.849,0.0098,0.8453,0.8409,0.8439

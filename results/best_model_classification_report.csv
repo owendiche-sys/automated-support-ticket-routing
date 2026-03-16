@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+Account Access,0.9369,0.963,0.9498,108.0
+Billing,0.928,0.9667,0.9469,120.0
+Orders & Delivery,0.9908,0.973,0.9818,111.0
+Product Inquiry,0.9429,0.9706,0.9565,102.0
+Refunds & Returns,0.9912,0.9573,0.9739,117.0
+Technical Support,0.977,0.9497,0.9632,179.0
+accuracy,0.962,0.962,0.962,0.962
+macro avg,0.9611,0.9634,0.962,737.0
+weighted avg,0.9628,0.962,0.9622,737.0

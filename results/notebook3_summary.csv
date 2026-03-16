@@ -1,0 +1,2 @@
+confidence_method,review_threshold,auto_route_count,human_review_count,misclassified_count,test_sample_count
+decision_function_softmax,0.8,34,703,28,737
